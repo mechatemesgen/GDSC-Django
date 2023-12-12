@@ -1,0 +1,2 @@
+# GDSC-Django
+GDSC_STUDY_SESSION
